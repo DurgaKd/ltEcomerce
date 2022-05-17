@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 adding some file and data 
+=======
+import os
+
+>>>>>>> v3.0
